@@ -54,7 +54,8 @@ From the beginning of 'Lesson 1' to the 'HTML recipe project'. I've learned a lo
     + I have learned how to setup git in local machine and how to create a remote repository in Github.
     + I have experimented with how to connect a local repository in your machine to a remote repository on github cloud service.
     + I have also learned the basic workflow command of GIT tools used in terminal.
-    + Overall conclusion is that it is a very impressive tool that track the changes of the source code of your websites.
+    + Github also provide the feature of Live Preview of your projects.
+    + Overall conclusion is that it is a very impressive tool that can track the changes of the source code of your websites.
 <br>
 <br>
 
@@ -68,4 +69,4 @@ I used GIMP to edit some of the images for my first project. Its interface is al
 <br>
 
 ## Final Words
-My name is Irfan Qasim and I enjoyed a lot while making my first website. Please give me feedback at  webdevirfan@gmail.com about my first website. How do you like my first website.
+My name is Irfan Qasim and I enjoyed a lot while making my first website. I am learning web development course from ['The Odin Project'](https://www.theodinproject.com/). Please give me feedback at  webdevirfan@gmail.com about my first project. How do you like my first website?
